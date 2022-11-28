@@ -3,11 +3,11 @@
 # Introducción
 El cáncer de mama es uno de los cánceres más comunes y que provoca más muertes entre las mujeres. Si es diagnosticado a tiempo, este cáncer puede tratarse y curarse, previniendo así la muerte de la paciente diagnosticada.
 En este trabajo, se utilizó una base de datos de diagnóstico de cáncer de mama obtenida de Kaggle (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset). En dicha base de datos, se tiene el registro de 569 muestras de tumores de mama y los valores promedio, error estándar y máximo de las siguientes 10 características de dichos tumores:
-* Radio
-*	Textura
-*	Perímetro
-*	Área
-*	Suavidad
+* Radio de los lóbulos
+*	Textura superficial
+*	Perímetro externo de los lóbulos
+*	Área de los lóbulos
+*	Niveles de suavidad
 *	Compacidad
 *	Concavidad
 *	Puntos cóncavos
